@@ -16,7 +16,7 @@ A framework for writing multi-user VR apps in HTML and JS.
 Built on top of [A-Frame](https://aframe.io/).
 
 <div>
-  <a href="#features">Features</a>
+  <a href="./examples/basic.html">Features</a>
   &mdash;
   <a href="#getting-started">Getting Started</a>
   &mdash;
